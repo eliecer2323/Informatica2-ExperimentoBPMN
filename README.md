@@ -17,6 +17,8 @@ Alejandro Paolo Daza Corredor
 |Lawrence Eliecer Montoya Orjuela |20221099010   |lmontoyao@correo.udistrital.edu.co |
 
 ## Resultado
+![Modelo experimental](https://user-images.githubusercontent.com/112450696/187330524-e411df05-efb1-433d-87a2-95b337739fe2.png)
+
 
 ## Observaciones
 Flujo de una cotización de una póliza
